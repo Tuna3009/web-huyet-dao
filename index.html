@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tra cứu huyệt đạo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Tra cứu huyệt đạo theo bệnh</h1>
+    <h2>Tìm kiếm thông tin bệnh</h2>
+    
+    <input type="text" id="search" placeholder="Nhập tên bệnh" oninput="suggestDiseases()">
+    <ul id="suggestions" style="list-style: none; padding: 0;"></ul>
+    <button onclick="searchDisease()">Tìm kiếm</button>
+    
+    <p id="result"></p>
+    
+    <script src="script.js"></script>
+</body>
+</html>
