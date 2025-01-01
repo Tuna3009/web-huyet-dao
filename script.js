@@ -11,6 +11,17 @@ fetch("data/disease-list.json")
   })
   .catch(error => console.error("Lỗi khi tải danh sách bệnh:", error));
 
+// Hàm loại bỏ dấu và ký tự đặc biệt trong tiếng Việt
+function removeVietnameseTones(str) {
+  return str
+    .toLowerCase()
+    .trim()
+    .replace(/đ/g, 'd')                               // Chuyển đ -> d
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")  // Loại bỏ dấu
+    .replace(/[^a-z0-9\s]/g, '')                       // Loại bỏ ký tự đặc biệt
+    .replace(/\s+/g, '-');                             // Thay khoảng trắng bằng gạch ngang
+}
+
 // Hàm gợi ý bệnh dựa trên từ khóa nhập vào
 function suggestDiseases() {
   const input = document.getElementById("search").value.toLowerCase();
@@ -21,7 +32,7 @@ function suggestDiseases() {
 
   // Tìm các bệnh khớp với từ khóa
   const matches = diseases.filter(disease =>
-    disease.toLowerCase().includes(input)
+    removeVietnameseTones(disease).includes(removeVietnameseTones(input))
   );
 
   // Hiển thị gợi ý
@@ -39,14 +50,9 @@ function suggestDiseases() {
 
 // Hàm tìm kiếm và hiển thị thông tin bệnh từ file txt
 function searchDisease() {
-  const disease = document.getElementById("search").value
-    .toLowerCase()
-    .trim()                                      // Xóa khoảng trắng đầu/cuối
-    .replace(/\s+/g, '-')                        // Thay mọi khoảng trắng thành gạch ngang
-    .normalize("NFD").replace(/[\u0300-\u036f]/g, "");  // Loại bỏ dấu tiếng Việt
+  const disease = removeVietnameseTones(document.getElementById("search").value);
 
-  console.log(`Fetching: data/${disease}.txt`);  // Kiểm tra đường dẫn trong console
-
+  console.log(`Fetching: data/${disease}.txt`);  // In ra console để kiểm tra fetch URL
   fetch(`data/${disease}.txt`)
     .then(response => {
       if (!response.ok) {
@@ -59,7 +65,7 @@ function searchDisease() {
       document.getElementById("result").innerText = data;
     })
     .catch(error => {
-      document.getElementById("result").innerText = error.message;
+      document.getElementById("result").innerText = "Không tìm thấy bệnh hoặc lỗi fetch.";
     });
 }
 
@@ -68,3 +74,4 @@ document.getElementById("search").addEventListener("input", suggestDiseases);
 
 // Gán sự kiện tìm kiếm khi nhấn nút
 document.getElementById("searchButton").addEventListener("click", searchDisease);
+
