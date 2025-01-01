@@ -19,8 +19,8 @@ function suggestDiseases() {
 
   if (input === "") return;
 
-  // Tìm các bệnh khớp với từ khóa (không phân biệt hoa/thường)
-  const matches = diseases.filter(disease => 
+  // Tìm các bệnh khớp với từ khóa
+  const matches = diseases.filter(disease =>
     disease.toLowerCase().includes(input)
   );
 
@@ -29,7 +29,7 @@ function suggestDiseases() {
     const li = document.createElement("li");
     li.textContent = match;
     li.onclick = () => {
-      document.getElementById("search").value = match;  // Điền vào ô tìm kiếm
+      document.getElementById("search").value = match;
       suggestions.innerHTML = "";
     };
     suggestions.appendChild(li);
@@ -55,10 +55,9 @@ function searchDisease() {
       document.getElementById("result").innerText = data;
     })
     .catch(error => {
-      console.error("Lỗi trong quá trình fetch:", error);
       document.getElementById("result").innerText = "Không tìm thấy bệnh hoặc lỗi fetch.";
     });
 }
 
-// Gán sự kiện khi nhập vào ô tìm kiếm để gợi ý
+// Gán sự kiện gợi ý khi nhập
 document.getElementById("search").addEventListener("input", suggestDiseases);
