@@ -31,6 +31,7 @@ function suggestDiseases() {
     li.onclick = () => {
       document.getElementById("search").value = match;
       suggestions.innerHTML = "";
+      searchDisease();  // Tự động tìm kiếm khi chọn gợi ý
     };
     suggestions.appendChild(li);
   });
@@ -40,8 +41,11 @@ function suggestDiseases() {
 function searchDisease() {
   const disease = document.getElementById("search").value
     .toLowerCase()
-    .replace(/\s/g, '-')
+    .trim()                                      // Xóa khoảng trắng đầu/cuối
+    .replace(/\s+/g, '-')                        // Thay mọi khoảng trắng thành gạch ngang
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "");  // Loại bỏ dấu tiếng Việt
+
+  console.log(`Fetching: data/${disease}.txt`);  // Kiểm tra đường dẫn trong console
 
   fetch(`data/${disease}.txt`)
     .then(response => {
@@ -55,9 +59,12 @@ function searchDisease() {
       document.getElementById("result").innerText = data;
     })
     .catch(error => {
-      document.getElementById("result").innerText = "Không tìm thấy bệnh hoặc lỗi fetch.";
+      document.getElementById("result").innerText = error.message;
     });
 }
 
 // Gán sự kiện gợi ý khi nhập
 document.getElementById("search").addEventListener("input", suggestDiseases);
+
+// Gán sự kiện tìm kiếm khi nhấn nút
+document.getElementById("searchButton").addEventListener("click", searchDisease);
