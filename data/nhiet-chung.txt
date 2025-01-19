@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 5 . NHIỆT MÔN:
 Thanh nhiệt dùng để chủ yếu trị liệu nhiệt môn, là phương pháp thanh trừ nhiệt tà. Thanh pháp vận dùng phạm vị rất rộng, thường dùng trị liệu ôn nhiệt bệnh.
 Nhưng cụ thể đối với lại có tác dụng thanh khí phận nhiệt, thanh vinh kinh huyết, thanh tạng phủ nhiệt cực và thanh hư nhiệt không giống nhau, các chứng dụng không giống nhau.
@@ -65,71 +64,3 @@ Khúc trạch: Thanh nhiệt giải thử nhiệt
 Hậu khê: Thanh biểu nhiệt
 Hợp cốc: Thanh khí phận nhiệt cùng chư khiếu nhiệt 
  
-=======
-5 . NHIỆT MÔN:
-Thanh nhiệt dùng để chủ yếu trị liệu nhiệt môn, là phương pháp thanh trừ nhiệt tà. Thanh pháp vận dùng phạm vị rất rộng, thường dùng trị liệu ôn nhiệt bệnh.
-Nhưng cụ thể đối với lại có tác dụng thanh khí phận nhiệt, thanh vinh kinh huyết, thanh tạng phủ nhiệt cực và thanh hư nhiệt không giống nhau, các chứng dụng không giống nhau.
-
-+ thanh khí phận nhiệt: chủ yếu dùng trị liệu nhiệt tại khí phận. Như nhiệt tại khí phận khiến tân dịch bổ tổn thương có tác dụng thanh nhiệt, dưỡng âm.
-
-+ thanh vinh lương huyết pháp: chủ yếu dùng ôn bệnh nhiệt tà nhập vinh huyết. Lâm sàng ứng dụng lại có tác dụng thanh vinh thấu nhiệt hòa lương huyết tán huyết phận. 
-Dùng trị nhiệt nhập vinh huyết, sau như dùng nhiệt tà nhập huyết phận.
-
-+ thanh tạng phủ nhiệt pháp: chủ yếu dùng với trường hợp nhiệt tà quá thịnh. 
-Như tâm hỏa vượng thịnh dùng thiếu phủ, thần môn, thông lý. tả can hỏa dùng hành gian, dương lăng tuyền
-
-Tổng lại: nhiệt môn có thanh nhiệt, lương huyết, tả hỏa làm chủ. Tổng cộng có 43 huyệt.
-
-
-Thiếu phủ: Thanh tâm nhiệt
-Thần môn: Thanh tâm nhiệt, thanh huyết nhiệt
-Thông lý: Thanh tâm nhiệt
-Lao cung: Thanh tâm cách nhiệt, thanh nhiệt lý khí
-Đại lăng: Thanh tâm hung nhiệt
-
-Xích trạch: Thanh phế nhiệt
-Ngư tế: Thanh phế nhiệt, lợi khí
-Phế du: Thanh phế nhiệt
-
-Bách hội: Thanh thượng nhiệt
-Thượng tinh: Thanh hư nhiệt, thanh đầu, mục, ty nhiệt
-Thái bạch: Thanh đầu mục huyết, thanh khí nhiệt
-Tán trúc: Thanh đầu mục nhiệt
-Phong môn: Thanh nhiệt khư phong, lưng ngực nhiệt
-
-Nội quan: Thanh bào nhiệt, hung trung có nhiệt
-Trung cực: Thanh vị giải nhiệt
-Thượng quản: Thanh tâm vị nhiệt
-Thượng liêm: Thanh tâm vị nhiệt
-Giải khê: Thanh vị nhiệt
-Kim tân, ngọc dịch: Thanh tâm phế vị nhiệt
-Thiếu thương: Thanh khẩu vị yết hầu nhiệt
-Phong long: Thanh vị trường nhiệt, đàm nhiệt
-
-Chi câu: Thanh tam tiêu nhiệt, tiết phủ nhiệt
-Thủy đạo: Thanh nhiệt tại tam tiêu
-Tiền cốc: Thanh nhiệt tại tam tiêu
-
-Thừa sơn: Thanh huyết nhiệt
-Thái uyên: Thanh huyết nhiệt
-Khúc trì: Thanh huyết phân nhiệt, các khí khớp ô mát
-Thái xung: Thanh huyết nhiệt
-Tam âm giao: Thanh huyết nhiệt, bình can nhiệt
-Hành gian: Thanh tả can nhiệt
-Dương lăng tuyền: Thanh tả can nhiệt
-Túc tam lý: Thanh lục phủ nhiệt
-Kỳ môn: Thanh can nhiệt
-
-Ủy trung: Thanh huyết, đại trường, bàng quang nhiệt
-Thiên khu: Thanh đại trường nhiệt
-Nhiên cốc: Thanh thận bàng quang, thanh nhiệt
-
-Huyền chung: Thanh tam dương cùng não tủy nhiệt
-Đại trữ: Thanh cốt chưng lao nhiệt
-Đại truy: Thanh biểu nhiệt, thanh cốt chứng lao nhiệt
-Mệnh môn: Thanh ngũ tạng cùng thân nhiệt
-Khúc trạch: Thanh nhiệt giải thử nhiệt
-Hậu khê: Thanh biểu nhiệt
-Hợp cốc: Thanh khí phận nhiệt cùng chư khiếu nhiệt 
- 
->>>>>>> 4a870a9d91467abec531bc87d638745d2721fa87
