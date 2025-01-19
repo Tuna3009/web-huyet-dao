@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 KHÍ MÔN:
 Lý khí pháp chủ yếu là khí môn. 
 Lý khí pháp là sơ sướng khí cơ, điều trị khí phận. Thích hợp với khí cơ trở trệ hoặc khí cơ nghịch loạn.
@@ -49,4 +50,57 @@ Xích trạch: Điều lý phế khí
 Đại bao: Vận hành phủ khí
 Thủy đạo: Sơ thông tam tiêu khí, bàng quang khí
 Khí hải: Chấn yêm dương khí, điều hòa âm khí
+=======
+KHÍ MÔN:
+Lý khí pháp chủ yếu là khí môn. 
+Lý khí pháp là sơ sướng khí cơ, điều trị khí phận. Thích hợp với khí cơ trở trệ hoặc khí cơ nghịch loạn.
+
+Cơ thể con người hoạt động được là sự thôi động của khí. Chính khí của cơ thể gốc ở trung tiêu, phế làm chủ, ngoài hộ vệ ở biểu, trong hành ở lý, thăng giáng xuất nhập, chu lưu toàn thân. 
+Một khi vận hành thất thường, thì sẽ tựu hội lại mà sản sinh ra các loại tật bệnh, khái quát thì không ngoài: khí trệ, khí nghịch, khí hư hạ hãm.
+
++ hành khí pháp: hành khí pháp dùng trong trường hợp công năng của trường vị bị trở ngại mà dẫn đến bụng đau, bụng trướng, nôn mửa cùng ngực mãn, vị quản thống.
+ Có tác dụng điều chỉnh công năng của vị trường, giải kính chỉ thống, kiện vị chỉ ẩu.
+
++ giáng khí pháp: giáng khí pháp thích hợp với công năng của đại trường trở ngại và dẫn đến ợ hơi, nôn mửa, ách nghịch và hệ thống hô hấp gây ra khái thấu, khí suyễn. 
+Có tác dụng chỉ ẩu chỉ ách nghịch, chỉ khái, định suyễn, chấn nghịch.
+
+Tổng lại khí môn có lý khí pháp( điều khí, lý khí) làm cương. Hành khí pháo, giáng khí pháp ( lợi khí ) làm mục. Cộng lại có 32 huyệt, công năng điều trị như phía dưới bảng sau.
+
+Hành khí pháp
+Hợp cốc: Thăng khí, giáng khí, hành khí, tuyên khí
+Túc tam lý: Thăng khí, giáng nghịch, điều lý trung khí
+Đản trung: Thăng tỳ khí, giáng vị khí
+Dương lăng tuyền: Hành khí đạo trệ, điều lý khí của can đờm
+Khúc trì: Hành trung khí
+Trung quản: Thăng thanh giáng trọc, điều lý tỳ vị
+Kiên ngung: Thư lý khí của phế kinh
+Thiên khu: Điều lý khí của vị trường
+Đại lăng: Điều tâm khí, giáng trọc khí
+Công tôn: Vận tỳ khí, hòa vị khí
+
+Giáng khí pháp
+Đại truy: Điều hòa vệ khí
+Kiên tỉnh: Lợi đờm giáng nghịch khí
+Khuyết bồn: Khai hung giáng khí
+Khí hộ: Khoan hung lợi khí
+Vân môn: Khai hung thuận lợi
+Cự cốt: Khai phế khí, giáng nghịch khí
+Thiên đột: Giáng phế khí, khai khí cơ
+Thái uyên: Thông mạch khí, lợi phế khí, giáng nghịch khí
+Trung phủ: Điều lý phế khí
+Thái xung: Giáng nghịch khí
+Hãm cốc: Điều lý tỳ vị
+Ấn bạch: Thăng dương ích khí
+
+Huyệt khác:
+Phục lưu: Hộ vệ khí, cố thận khí
+Thần môn: Sơ thông tâm khí
+Kinh môn: Hộ vệ khí, cố thận khí
+Thông cốc: Lý khí của ngũ tạng
+Thiên trụ: Điều lý khí của chư dương
+Xích trạch: Điều lý phế khí
+Đại bao: Vận hành phủ khí
+Thủy đạo: Sơ thông tam tiêu khí, bàng quang khí
+Khí hải: Chấn yêm dương khí, điều hòa âm khí
+>>>>>>> 4a870a9d91467abec531bc87d638745d2721fa87
 Du phủ: Khai hung khí, giáng xung khí

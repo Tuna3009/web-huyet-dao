@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HUYẾT MÔN:
 Lý huyết pháp là dùng để trị liệu chủ yếu bệnh về huyết. 
 Lý huyết pháp là làm cho huyết dịch được thông sướng, tiêu tán ứ huyết cùng với các chủng chỉ huyết.
@@ -40,4 +41,48 @@ Khí hải: Ích khí hành huyết, hoạt huyết tả huyết
 Khác
 Khúc trạch: Thanh phế vị, chỉ ẩu thổ
 Cách du: Thông lý huyết khí
+=======
+HUYẾT MÔN:
+Lý huyết pháp là dùng để trị liệu chủ yếu bệnh về huyết. 
+Lý huyết pháp là làm cho huyết dịch được thông sướng, tiêu tán ứ huyết cùng với các chủng chỉ huyết.
+Huyết dịch là vật chất trọng yếu để vinh dưỡng nhân thể, tuần hoàn toàn thân, tuần hoàn như chiếc vòng không đầu mối. 
+Có rất nhiều nguyên nhân dẫn đến sự vận hành của huyết không được thông sướng, ứ trệ nội đình hoặc thống chứng hoặc bế kinh đều nên khử ứ. 
+Ứ huyết nhẹ thì nên hoạt huyết khứ ứ, ứ huyết nặng thì nên công trục huyết ứ. 
+Trên cơ sở đạo lý: “khí là soái của huyết, khí hành thì huyết hành”, cho nên hoạt huyết hóa ứ thường kết hợp với pháp lý khí.
+“huyết hành trong mạch” là hiện tượng bình thường
+có lúc bệnh biến cũng khiến cho huyết chảy ra ngoài mạch, phát sinh nục huyết, lạc huyết, tiện huyết, niệu huyết, huyêt băng mà gây ra các chủng xuất huyết.
+
++ hoạt huyết khứ ứ pháp: đa phần dùng trị liệu thống kinh, huyết kết lại trong huyết quản, huyết quản co thắt, đau tim. 
+Đối với các khí quan của cơ thể để điêu hòa, giải trừ cơ nhục co rút, cải thiện tuần hoàn huyết dịch và công năng của nội tạng.
+
++ chỉ huyết pháp: thích hợp với chứng thổ huyết, lạc huyết, tỵ nục, tiện huyết, sản hậu xuất huyết, kinh nguyệt quá nhiều, làm gia tăng thêm công năng tác dung ngưng huyết.
+
+Tổng kết lại, huyết môn lấy lý huyết pháp ( lý huyết, điều huyết) làm cương, hoạt huyết khứ ứ ( hoạt huyết, phá huyết), chỉ huyết làm mục.
+Tổng cộng có 20 huyệt. Sử dụng với các bệnh về huyết
+
+Hoạt huyết khứ ứ pháp
+Khúc trì: Điều huyết, hành huyết, hoạt huyết
+Tam âm giao: Thông kinh hành huyết, dưỡng âm bổ huyết
+Ấn bạch: Hoạt huyết, chỉ huyết
+Huyết hải: Điều huyết bổ huyết
+Ủy trung: Thanh huyết, lương huyết, hoạt huyết
+Khúc tuyền: Lương huyết, thanh huyết, dưỡng huyết, hoạt huyết
+Hành gian: Hành ứ phá huyết, giáng huyết tán huyết
+Thái xung: Thông kinh hoạt huyết, dưỡng huyết lương huyết
+Túc tam lý: Bổ huyết hoạt huyết, thanh huyết lý huyết
+Đại truy: Hoạt huyết bổ huyết
+Giản sử: Hành huyết hoạt huyết
+
+
+Chỉ huyết pháp
+Thượng tinh: Hành huyết bổ huyết, chỉ ẩu tỳ nục huyết
+Côn lôn: Giáng huyết hành huyết
+Dũng tuyền: Dưỡng huyết, hành huyết
+Trung cực: Điều kinh lý huyết, chỉ huyết
+Khí hải: Ích khí hành huyết, hoạt huyết tả huyết
+
+Khác
+Khúc trạch: Thanh phế vị, chỉ ẩu thổ
+Cách du: Thông lý huyết khí
+>>>>>>> 4a870a9d91467abec531bc87d638745d2721fa87
 Thừa tương: Tuyên thông khí huyết
