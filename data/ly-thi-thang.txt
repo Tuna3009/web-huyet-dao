@@ -1,0 +1,31 @@
+sài hồ                  12
+quế chi                 10
+bạch thược              10  
+chích cam thảo          10
+trần bì	                10
+phục linh               10
+bán hạ                  10
+hương phụ               10
+mẫu đơn bì              10
+địa hoàng               10
+hạnh nhân               10
+hà thủ ô                10
+sinh địa                10
+bạch truật              10
+
+Nếu đau nhức không nghiêm trọng : gia bạch thược
+Nếu đau vị quản (dạ dày) : gia đương quy
+Đau nhức khớp xương : tăng quế chi, bạch thược
+Bệnh xuất huyết, thanh nhiệt sinh tân : tăng sinh địa 
+bệnh nhân sợ lạnh, dương hư: gia thục địa
+tinh huyết bất túc, tiện bí: tăng thêm hà thủ ô ( Nếu người bị phúc tả tiêu chảy thì giảm hà thủ ô )
+Mất ngủ hoặc ho kèm mất ngủ thay : Hà thủ ô bằng thủ ô đằng ( dạ giao đằng )
+thủy thủng: bỏ cam thảo
+
+
+Nguyên lý: 
+bạch thược, trần bì, hà thủ ô: nhập huyết sơ can bình đởm
+trần bì, hạnh nhân : nhập khí phận, thanh phế hóa đàm giáng nghịch
+phục linh: kiện tỳ trừ thẩm thấp
+bán hạ: hòa vị giáng nghịch
+cam thảo: hòa trung trị tỳ vị
